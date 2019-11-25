@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://ienc.openecdis.org/</loc>
+  <lastmod>2019-09-20T16:22:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/inland-ecdis-standard-21</loc>
+  <lastmod>2019-09-20T16:22:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/inland-ecdis-standard-23</loc>
+  <lastmod>2019-09-20T16:22:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/inland-ecdis-standard-24</loc>
+  <lastmod>2019-09-20T16:22:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/iehg</loc>
+  <lastmod>2019-09-20T16:22:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/inland-enc-related-papers</loc>
+  <lastmod>2019-09-20T16:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/links</loc>
+  <lastmod>2019-09-20T16:22:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/inlandecdis-standard-20</loc>
+  <lastmod>2019-09-20T16:22:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/product-specification-inland-encs-22</loc>
+  <lastmod>2019-09-20T16:22:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/european-inland-ecdis-expert-group</loc>
+  <lastmod>2019-09-20T16:22:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/welcome-inlandecdis-page-open-ecdis-forum</loc>
+  <lastmod>2019-09-20T16:22:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/6</loc>
+  <lastmod>2019-09-20T16:22:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-product-specification-21</loc>
+  <lastmod>2019-09-20T16:22:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-presentation-library-21</loc>
+  <lastmod>2019-09-20T16:22:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/8</loc>
+  <lastmod>2019-09-20T16:22:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files\Codes_for_waterways.pdf</loc>
+  <lastmod>2019-09-16T08:15:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/19</loc>
+  <lastmod>2019-09-20T16:22:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-product-specification-23</loc>
+  <lastmod>2019-09-20T16:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-presentation-library-23</loc>
+  <lastmod>2019-09-20T16:23:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/11</loc>
+  <lastmod>2019-09-20T16:23:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/12</loc>
+  <lastmod>2019-09-20T16:23:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-product-specification-24</loc>
+  <lastmod>2019-09-20T16:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-presentation-library-24</loc>
+  <lastmod>2019-09-20T16:23:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/bathymetric-inland-enc-product-specification</loc>
+  <lastmod>2019-09-20T16:23:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Inland_ENC.ppt</loc>
+  <lastmod>2019-01-25T12:32:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Inland_ENC_Espa%C3%B1ol_Marzo_21_2015.pptx</loc>
+  <lastmod>2019-01-25T12:32:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/ToR_for_IEHG_2018.pdf</loc>
+  <lastmod>2018-01-15T07:59:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_members.pdf</loc>
+  <lastmod>2019-09-16T08:15:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/cr_iehg_nr-xxx_x_y_y_vy_jjjj_0.docx</loc>
+  <lastmod>2018-01-10T17:03:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Guideline_for_drafting_of_Change_requests.pdf</loc>
+  <lastmod>2018-05-07T14:25:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_XIV_Minutes.pdf</loc>
+  <lastmod>2018-01-10T17:02:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_XIII%20_Minutes.pdf</loc>
+  <lastmod>2016-06-03T12:53:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_XII_Minutes.pdf</loc>
+  <lastmod>2016-06-03T12:53:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_XI_Minutes.pdf</loc>
+  <lastmod>2014-05-21T12:22:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_X_Minutes.pdf</loc>
+  <lastmod>2014-05-21T12:26:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_9_Minutes.pdf</loc>
+  <lastmod>2011-12-20T07:29:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG8%20-%20Minutes.pdf</loc>
+  <lastmod>2010-11-04T15:06:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/MoM_Quality_Standard_20100330.pdf</loc>
+  <lastmod>2010-04-19T09:09:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IEHG_7_Minutes.pdf</loc>
+  <lastmod>2010-03-31T11:48:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/MoM_Quality_Standard_20090225.pdf</loc>
+  <lastmod>2009-08-14T06:39:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IEHG_6_MoM.pdf</loc>
+  <lastmod>2009-08-14T06:39:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IEHG_5_Minutes.pdf</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IEHG_4_Minutes.pdf</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Standardized_waterlevel_files_V03.pdf</loc>
+  <lastmod>2010-04-14T12:32:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Recommended_Inland_ENC_validation_checks_1_1.pdf</loc>
+  <lastmod>2014-05-21T12:28:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Recommended_Inland_ENC_validation_checks_2_3corr1.pdf</loc>
+  <lastmod>2014-05-21T12:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Recommended%20Inland%20ENC%20validation%20checks_2_4_0.doc</loc>
+  <lastmod>2015-11-05T13:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Accuracy_and_Update_Requirements_Depth_Data_IRIS_II_v1p0.pdf</loc>
+  <lastmod>2011-10-28T10:58:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Evaluation_IENC_Usages_RWS.pdf</loc>
+  <lastmod>2014-05-21T12:30:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_Prod_overview.pdf</loc>
+  <lastmod>2019-07-18T13:57:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-product-specification-20</loc>
+  <lastmod>2019-09-20T16:23:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/status-codes-producers-and-waterways</loc>
+  <lastmod>2019-09-20T16:23:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/status-ienc-presentation-library-20</loc>
+  <lastmod>2019-09-20T16:23:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/21</loc>
+  <lastmod>2019-09-20T16:24:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/20</loc>
+  <lastmod>2019-09-20T16:24:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-product-specification-22</loc>
+  <lastmod>2019-09-20T16:24:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=node/14</loc>
+  <lastmod>2019-09-20T16:24:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-feature-catalogue-21</loc>
+  <lastmod>2019-09-20T16:24:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-encoding-guide-131</loc>
+  <lastmod>2019-09-20T16:24:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/ienc_editor/</loc>
+  <lastmod>2019-09-20T16:24:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Recommended_Inland_ENC_validation_checks_1_0.pdf</loc>
+  <lastmod>2011-12-21T10:54:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/Corrections_to_Product_Specification_2_1.pdf</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IENC_EG_131.pdf</loc>
+  <lastmod>2009-08-14T06:39:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IENC_FC_21.pdf</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IES21_Section2_ProdSpec.pdf</loc>
+  <lastmod>2009-08-14T06:39:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IENC_FC_21.xsd</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/look-tables-21</loc>
+  <lastmod>2019-09-20T16:24:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/symbols-21</loc>
+  <lastmod>2019-09-20T16:24:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/conditional-symbology-instructions-21</loc>
+  <lastmod>2019-09-20T16:24:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_Test_cells.pdf</loc>
+  <lastmod>2012-06-15T07:09:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Correction_PresLib.pdf</loc>
+  <lastmod>2011-05-23T09:45:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IES21_Section3_PresLib.pdf</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC%20Encoding%20Guide%20-%20Edition%202.3.6.pdf</loc>
+  <lastmod>2014-07-09T15:06:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_FC_23corr2.pdf</loc>
+  <lastmod>2014-05-21T12:18:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_FC_23.pdf</loc>
+  <lastmod>2011-06-07T11:35:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/ProdSpec_IENC_2_3_trackchange.pdf</loc>
+  <lastmod>2011-01-13T09:48:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/ProdSpec_IENC_2_3.pdf</loc>
+  <lastmod>2011-01-13T09:48:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Inland_ECDIS_PresLib_2_3.pdf</loc>
+  <lastmod>2011-03-08T14:05:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/ProdSpec_IENC_2_4.pdf</loc>
+  <lastmod>2015-04-28T07:55:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/ProdSpec_IENC_2_4_trackchanges.pdf</loc>
+  <lastmod>2015-04-28T07:55:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_EG_2_4_0.pdf</loc>
+  <lastmod>2015-04-28T07:55:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_EG_2_4_1_adopted_20180320.pdf</loc>
+  <lastmod>2019-05-06T07:42:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_FC_24_corr2.pdf</loc>
+  <lastmod>2015-11-03T10:43:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IES_PresLib_2_4.pdf</loc>
+  <lastmod>2015-04-28T08:24:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/bIENC_ProdSpec.pdf</loc>
+  <lastmod>2015-04-28T07:48:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/bIENC_Feature_Catalogue_1_0.pdf</loc>
+  <lastmod>2015-04-28T07:48:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-feature-catalogue-20</loc>
+  <lastmod>2019-09-20T16:24:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/ienc-encoding-guide-122</loc>
+  <lastmod>2019-09-20T16:24:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IENC_EG_122.pdf</loc>
+  <lastmod>2009-08-14T06:39:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IENC_FC_20.xsd</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IENC_FC_20.pdf</loc>
+  <lastmod>2009-08-14T06:39:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IES20_Section2_ProdSpec.pdf</loc>
+  <lastmod>2009-08-14T06:39:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/look-tables-20</loc>
+  <lastmod>2019-09-20T16:24:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/symbols-20</loc>
+  <lastmod>2019-09-20T16:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/?q=content/conditional-symbology-procedures-20</loc>
+  <lastmod>2019-09-20T16:24:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/downloads/IES20_Section3_PresLib.pdf</loc>
+  <lastmod>2009-08-14T06:39:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/Inland_ENC_Encoding_Guide_2_2_0.pdf</loc>
+  <lastmod>2010-03-31T16:42:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IENC_FC_22.pdf</loc>
+  <lastmod>2010-04-13T09:17:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://ienc.openecdis.org/files/IES22_Section2_ProdSpec.pdf</loc>
+  <lastmod>2010-03-31T13:40:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
